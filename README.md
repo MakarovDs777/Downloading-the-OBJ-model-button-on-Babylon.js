@@ -6,4 +6,4 @@
 
 [Downloading the OBJ model (Version 2 - Saving only what falls within the field of view of the blue gizmo with cropping) | Babylon.js Playground](https://playground.babylonjs.com/#633S0H#0)
 
-[Downloading the OBJ model (Version 3 - Downloading OBJ using gizmo + The gizmo OBJ add button) | Babylon.js Playground](https://playground.babylonjs.com/#5UFGZ8)
+[Downloading the OBJ model (Version 3 - Downloading OBJ using gizmo + The gizmo OBJ add button) | Babylon.js Playground](https://playground.babylonjs.com/#5UFGZ8#1)
